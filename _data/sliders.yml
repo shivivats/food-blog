@@ -1,70 +1,18 @@
-- selector: slider_testpost
+- selector: slider_shortbreadbrownies
   bullets: true
   captions: false
   images:
-    - src: /assets/images/food-pics/big-choco-chip-cookies/1.jpg
-      alt: Big Chocolate Chip Cookies Image 1
-    - src: /assets/images/food-pics/big-choco-chip-cookies/2.jpg
-      alt: Big Chocolate Chip Cookies Image 2
-    - src: /assets/images/food-pics/big-choco-chip-cookies/3.jpg
-      alt: Big Chocolate Chip Cookies Image 3
-    - src: /assets/images/food-pics/big-choco-chip-cookies/4.jpg
-      alt: Big Chocolate Chip Cookies Image 4
-    - src: /assets/images/food-pics/big-choco-chip-cookies/5.jpg
-      alt: Big Chocolate Chip Cookies Image 5
-    - src: /assets/images/food-pics/big-choco-chip-cookies/6.jpg
-      alt: Big Chocolate Chip Cookies Image 6
-    - src: /assets/images/food-pics/big-choco-chip-cookies/7.jpg
-      alt: Big Chocolate Chip Cookies Image 7
-    - src: /assets/images/food-pics/big-choco-chip-cookies/8.jpg
-      alt: Big Chocolate Chip Cookies Image 8
-    - src: /assets/images/food-pics/big-choco-chip-cookies/9.jpg
-      alt: Big Chocolate Chip Cookies Image 9
-    - src: /assets/images/food-pics/big-choco-chip-cookies/10.jpg
-      alt: Big Chocolate Chip Cookies Image 10
+    - src: /assets/images/food-pics/shortbread-brownies/1.png
+      alt: Shortbread base as it came out of the oven.
+    - src: /assets/images/food-pics/shortbread-brownies/2.png
+      alt: Finished brownies after they came out of the oven!
   settings:
     height: "'auto'"
-    initialHeight:
-    maxHeight:
+    initialHeight: 
+    maxHeight: 
     interval:
     transitionDuration:
-    effect:
-    disableNav:
-    keyboardNav:
-    previousNavSelector:
-    nextNavSelector:
-
-- selector: slider_secondtest
-  bullets: true
-  captions: false
-  images:
-    - src: /assets/images/food-pics/big-choco-chip-cookies/1.jpg
-      alt: Big Chocolate Chip Cookies Image 1
-    - src: /assets/images/food-pics/big-choco-chip-cookies/2.jpg
-      alt: Big Chocolate Chip Cookies Image 2
-    - src: /assets/images/food-pics/big-choco-chip-cookies/3.jpg
-      alt: Big Chocolate Chip Cookies Image 3
-    - src: /assets/images/food-pics/big-choco-chip-cookies/4.jpg
-      alt: Big Chocolate Chip Cookies Image 4
-    - src: /assets/images/food-pics/big-choco-chip-cookies/5.jpg
-      alt: Big Chocolate Chip Cookies Image 5
-    - src: /assets/images/food-pics/big-choco-chip-cookies/6.jpg
-      alt: Big Chocolate Chip Cookies Image 6
-    - src: /assets/images/food-pics/big-choco-chip-cookies/7.jpg
-      alt: Big Chocolate Chip Cookies Image 7
-    - src: /assets/images/food-pics/big-choco-chip-cookies/8.jpg
-      alt: Big Chocolate Chip Cookies Image 8
-    - src: /assets/images/food-pics/big-choco-chip-cookies/9.jpg
-      alt: Big Chocolate Chip Cookies Image 9
-    - src: /assets/images/food-pics/big-choco-chip-cookies/10.jpg
-      alt: Big Chocolate Chip Cookies Image 10
-  settings:
-    height: "'auto'"
-    initialHeight:
-    maxHeight:
-    interval:
-    transitionDuration:
-    effect:
+    effect: "'slide'"
     disableNav:
     keyboardNav:
     previousNavSelector:
