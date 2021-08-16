@@ -32,9 +32,7 @@ But regardless, here's the recipe for about 9 decently sized biscuits!
 
 4. When the flour is fully moistened and the dough is fully combined, transfer it onto a floured work surface and roll it out using a floured rolling pin into a 30 cm square. Sprinkle the cheese and bell pepper pieces onto the dough. Fold the dough into half, then fold the halved dough into half.
 
-5. Press the dough down and roll again into a 30 cm square. Using a knife, cut squares or rectangles as desired. Transfer the biscuits onto a parchment lined baking sheet, spacing them about 2 cms apart. Brush with egg wash (1 beaten egg mixed with about a tablespoon of water).
-
-**Note:** This would be a good time to put the butter on to the stove to melt.
+5. Press the dough down and roll again into a 30 cm square. Using a knife, cut squares or rectangles as desired. Transfer the biscuits onto a parchment lined baking sheet, spacing them about 2 cms apart. Brush with egg wash (1 beaten egg mixed with about a tablespoon of water). **Note:** This would be a good time to put the butter on to the stove to melt.
 
 6. Bake until the biscuits are golden brown, 17 to 22 minutes, rotating the pan halfway. Brush them with melted butter as soon as the come out of the oven. Allow to cool slightly before serving.
 
