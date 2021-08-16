@@ -1,15 +1,13 @@
 ---
-layout: post
 title:  "Shortbread Brownies"
-author: shivi
 categories: [ Sweets, Chocolate, Dessert ]
 image: assets/images/food-pics/shortbread-brownies/header.png
 image_sliders:
   - slider_shortbreadbrownies
 ---
-Unfortunately, I dont have a lot of pictures of this, as is the case with a lot of my recipes (as to why that is, more info in [this post]()).
+A great combination of two great baked products. The shortbread base and the almost underbaked brownies contrast each other very well. Small-ish portions paired with coffee (if that's your thing) tasted absolutely amazing!
 
-It annoys me that a lot of food blogs/websites nowadays have a ton of text before they *actually* show the recipe, and I dont want my blog to fall into that category. So without further ado, here's the recipe for a 23x33 cm (or a 9x13 inch) baking dish.
+Here's the recipe for a 23x33 cm (or a 9x13 inch) baking dish.
 
 ### Ingredients
 
@@ -58,9 +56,12 @@ There's also other changes I made, such as using toasted walnuts and replacing t
 A few notes:
 
 + You can halve the recipe to fit a 20x20 cm (8x8 inch) baking dish if you want to.
-+ Regarding the shortbread, the original recipe uses a stand mixer. So you can refer to it if you own a stand mixer but not a food processor. You can probably make it by hand, but you would have to cut in the butter yourself. I havent tried that as I own a food processor. And to be honest, it sounds a bit intimidating to me.
++ I tend to use 70-90% cacao chocolate in my recipes because I like the combination of the sweetness and the bitterness, but go with what you prefer!
++ Regarding the shortbread, the original recipe uses a stand mixer. So you can refer to it if you prefer to use a stand mixer instead. If you own neither a stand mixer or a food processor, you can cut in the butter by hand.
 + You can see in the pictures that I took out the shortbread a bit too early. I was scared of it getting too brown on the edges, but I think I could've gotten away with a minute or two more in the oven. As always, trust your senses with baking! Every oven is different.
 + Lastly, recipes are a guideline in the end. If you want to go with untoasted walnuts, or use cocoa powder instead of chopped up chocolate, go for it! You can even omit the walnuts or replace them with almonds or pecans if you want to. And if you have another brownie recipe that you prefer, feel free to experiment with that instead of using this one!
+
+Unfortunately, I dont have a lot of pictures of this, as is the case with a lot of my recipes (as to why that is, more info in [this post]()).
 
 {% include slider.html selector="slider_shortbreadbrownies" %}
 

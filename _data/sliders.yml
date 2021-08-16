@@ -17,3 +17,21 @@
     keyboardNav:
     previousNavSelector:
     nextNavSelector:
+
+- selector: slider_biscuits
+  bullets: true
+  captions: false
+  images:
+    - src: /assets/images/food-pics/biscuits/1.png
+      alt: Finished biscuits!
+  settings:
+    height: "'auto'"
+    initialHeight: 
+    maxHeight: 
+    interval:
+    transitionDuration:
+    effect: "'slide'"
+    disableNav:
+    keyboardNav:
+    previousNavSelector:
+    nextNavSelector:
